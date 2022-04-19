@@ -1,12 +1,10 @@
 # Status Report
 
 #### Your name
-
-TODO
+Adalia Hercules
 
 #### Your section leader's name
-
-TODO
+Nichols
 
 #### Project title
 
@@ -18,12 +16,10 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Brainstorm
 
 #### What have you not done for your project yet?
-
-TODO
+Start
 
 #### What problems, if any, have you encountered?
-
-TODO
+Starting/Catching up with this class
